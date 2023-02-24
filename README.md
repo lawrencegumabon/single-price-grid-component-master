@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/lawrencegumabon/single-price-grid-component-master
+- Live Site URL: [Single Price Grid Components (TailwindCSS)](https://single-price-grid-a8a3b0.netlify.app/)
 
 ## My process
 
@@ -39,4 +39,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@lawrencegumabon]
+- Frontend Mentor - [@lawrencegumabon](https://www.frontendmentor.io/profile/lawrencegumabon)
